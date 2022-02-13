@@ -71,6 +71,12 @@ print("Hi there")
 
 ---
 
-*[x]done
-*[ ]not done
+* [x] done
+* [ ] not done
+
+---
+
+- [ ] test checkbox 1
+- [x] tick checkbox 2
+- [ ] test checkbox 3 
 
